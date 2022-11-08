@@ -1,0 +1,31 @@
+body{
+    background-color: paleturquoise;
+}
+#uno{
+    background-color: pink;
+} #uno tr:nth-child(1) {
+    background-color: grey;
+}
+#dos{
+    background-color: purple;
+}  #uno tr:nth-child(2) {
+    background-color: rgb(141, 15, 114);
+}
+#tres{
+    background-color: burlywood;
+}
+#cuatro{
+    background-color:grey;
+}
+#cinco{
+    background-color: rgb(175, 87, 171);
+}
+#seis{
+    background-color: rgb(87, 16, 28);
+}
+#siete{
+    background-color: rgb(186, 212, 115);
+}
+#ocho{
+    background-color: rgb(176, 156, 182);
+}

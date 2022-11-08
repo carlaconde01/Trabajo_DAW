@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    background-color: indianred;
+}
+form h3{
+    color: lightblue;
+}
+.titulo{
+    color: lightskyblue;
+}
+#descripcion{
+    color: greenyellow;
+}
+form > p{
+    background-color: midnightblue;
+}
+h2 + p{
+    background-color: plum;
+}
